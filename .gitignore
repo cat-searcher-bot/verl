@@ -125,6 +125,8 @@ logs
 log
 **/local_*
 **/local-*
+**/*_local
+**/*-local
 
 # Jupyter Notebook
 .ipynb_checkpoints
